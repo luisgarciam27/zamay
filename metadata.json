@@ -1,0 +1,6 @@
+{
+  "name": "Zamay Estética Spa",
+  "description": "Catálogo de servicios y productos, reserva de citas y panel de administración para Zamay Estética Spa en Huancayo, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
